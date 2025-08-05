@@ -55,10 +55,6 @@ https://youtu.be/3VKJ_54wKLw
 
 https://youtu.be/GqRcHVKAKSE
 
-- 시뮬레이션 분석 시각화
-
-https://youtu.be/oAjak6uGbwA
-
 - 시뮬레이션 강화학습 모델 수치 시각화
 
 https://youtu.be/w7pPpq7nIug
