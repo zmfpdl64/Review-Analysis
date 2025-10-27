@@ -56,5 +56,5 @@ https://youtu.be/GqRcHVKAKSE
 
 - 시뮬레이션 강화학습 모델 수치 시각화
 
-https://studio.youtube.com/video/vGkfNh7oaVc/edit
+https://www.youtube.com/watch?v=vGkfNh7oaVc
 
